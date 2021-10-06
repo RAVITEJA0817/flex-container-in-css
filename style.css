@@ -1,0 +1,15 @@
+.container{
+    background-color: burlywood;
+    margin: 0px;
+    font-size: 25px;
+    padding: 25px;
+    box-sizing: border-box;
+    box-shadow: grey 5px 5px 3px;
+    display:flex;
+    flex-wrap: wrap;
+}
+p{
+    background-color: darkgoldenrod;
+    padding: 25px;
+    margin: 10px;
+}
